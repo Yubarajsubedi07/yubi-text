@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #9ef01b;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    color: #917bf5;
+}
+
+.image-caption {
+    margin-bottom: 20px;
+}
+
+.image-caption img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.civilization {
+    margin-bottom: 20px;
+}
+
+blockquote {
+    margin: 20px 0;
+    padding: 10px 20px;
+    background-color: #e0c217;
+    border-left: 5px solid hsl(0, 88%, 46%);
+}
+
+blockquote p {
+    margin: 0;
+}
